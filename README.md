@@ -7,8 +7,8 @@ Este proyecto está desarrollado en Python. Analiza y procesa una lista de incid
 - Se consideran:
     - Registros con estado "válido"
     - Incidentes mayores a 0
-    - La prioridad es media o alta
-    - Los registros con clave faltante, se ignoran
+    - La prioridad es "media" o "alta"
+    - Los registros con clave faltante se ignoran
 
 
 - Retorna:
