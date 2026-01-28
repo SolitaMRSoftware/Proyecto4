@@ -1,6 +1,6 @@
 # Proyecto 4 - Análisis de incidentes
 
-Este proyecto está desarrolado en Python. Analiza y procesa una lista de incidentes operativos **agrupando por sector**. 
+Este proyecto está desarrollado en Python. Analiza y procesa una lista de incidentes operativos **agrupando por sector**. 
     
 ## Funcionalidad principal
 
@@ -11,10 +11,9 @@ Se consideran válidos:
     -Los registros con clave faltante, se ignoran
 
 
-
 ##Retorna:
 
--Un diccionario con un informe final por sector con el total de incidentes y la cantidad de registros considerados válidos
+-Un diccionario con un informe final por sector con el total de incidentes y la cantidad de registros considerados válidos.
 
 
 ##Estructura de salida:
