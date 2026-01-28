@@ -5,15 +5,15 @@ Este proyecto está desarrollado en Python. Analiza y procesa una lista de incid
 ## Funcionalidad principal
 
 - Se consideran:
-    -Registros con estado "válido"
-    -Incidentes mayores a 0
-    -La prioridad es media o alta
-    -Los registros con clave faltante, se ignoran
+    - Registros con estado "válido"
+    - Incidentes mayores a 0
+    - La prioridad es media o alta
+    - Los registros con clave faltante, se ignoran
 
 
 - Retorna:
 
-  -Un diccionario con un informe final por sector con el total de incidentes y la cantidad de registros considerados válidos.
+  - Un diccionario con un informe final por sector con el total de incidentes y la cantidad de registros considerados válidos.
 
 
 ## Estructura de salida:
